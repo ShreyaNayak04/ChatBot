@@ -1,2 +1,2 @@
-# ChtaBot
+# ChatBot
 Simple chatbot
